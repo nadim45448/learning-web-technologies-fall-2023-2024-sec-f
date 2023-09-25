@@ -2,7 +2,7 @@
   <brand>
          <ID> 11 </ID>
 	<NAME> Samsung </NAME>
-	<UNIT PRICE> 35000 </UNIT PRICE>  
+	<UNIT_PRICE> 35000 </UNIT_PRICE>  
 	<STOCK> 50 </STOCK>
 	<STATUS> 1 </STATUS>
   </brand>
@@ -10,7 +10,7 @@
   <brand>
 	<ID> 20 </ID>
 	<NAME> HTC</NAME>
-	<UNIT PRICE> 65300</UNIT PRICE>  
+	<UNIT_PRICE> 65300</UNIT_PRICE>  
 	<STOCK> 35</STOCK>
 	<STATUS> 0</STATUS>
   </brand>
@@ -18,7 +18,7 @@
   <brand>
 	<ID> 23</ID>
 	<NAME> Nokia</NAME>
-	<UNIT PRICE> 25100</UNIT PRICE>  
+	<UNIT_PRICE> 25100</UNIT_PRICE>  
 	<STOCK> 100</STOCK>
 	<STATUS> 1 </STATUS>
   </brand>
